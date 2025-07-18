@@ -1,1 +1,1 @@
-rtfg
+django class project
