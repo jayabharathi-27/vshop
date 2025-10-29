@@ -1,1 +1,1 @@
-django class project
+django  project
